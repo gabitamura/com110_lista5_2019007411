@@ -122,7 +122,7 @@ do{
     }
   }
   printf("\n");
-} //até aqui é o menu feito
+} //atÃ© aqui Ã© o menu feito
 printf("\n    Opcao: ");
 scanf("%d", &op);
 printf("\n");
